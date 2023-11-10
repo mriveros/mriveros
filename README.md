@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mriveros 345
-- 👀 I’m interested in work remotly.
+- 👀 I’m interested in remote work.
 - 🌱 I’m currently learning about React Js, React Native, GraphQL, Next.js, Apollo, MongoDB.
 - 💞️ I’m looking to collaborate on any project using C, RoR, Java, Python, Javascript, Oracle PLSQL.
 Typescript Javascript HTML5 React Bootstrap Material UI Redux  NodeJS Express MongoDB Firebase
