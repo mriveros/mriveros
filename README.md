@@ -1,8 +1,8 @@
 👋 Hi, I'm Marcos Riveros
-I'm a passionate full-stack developer with a strong foundation in Ruby on Rails and Android development using Java. I have experience building web and mobile applications with a focus on clean, maintainable code and scalable architectures.
+I'm a passionate full-stack developer with a strong foundation in Ruby on Rails and Android development using Java/Kotlin and C++ for arduino and others. I have experience building web and mobile applications with a focus on clean, maintainable code and scalable architectures.
 
 🔧 Technical Skills:
-Strong Knowledge: Ruby on Rails, Android (Java)
+Strong Knowledge: Ruby on Rails, Android (Java), C++ Arduino/Others
 Intermediate Knowledge: React, PHP, GraphQL, Next.js, Apollo, MongoDB, MySQL, PostgreSQL
 Additional Tools: Typescript, Javascript, HTML5, Bootstrap, Material UI, Redux, Node.js, Firebase, Oracle PLSQL
 
